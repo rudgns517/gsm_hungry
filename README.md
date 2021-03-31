@@ -15,4 +15,10 @@
 - 자신이 먹은 급식에 대해 매일매일 피드백을 남김으로써 영양사 선생님과의 커뮤니케이션을 통해 급식의 질을 개선시킬 수 있습니다.
 ## 실행사진
 #### 첫번째 페이지
-- 
+- ![image](https://user-images.githubusercontent.com/48789893/113118660-a3e71e00-924a-11eb-8950-45c392dc3963.png)
+#### 두번째 페이지
+- ![image](https://user-images.githubusercontent.com/48789893/113118720-b1040d00-924a-11eb-8317-e295590978e9.png)
+#### 세번째 페이지
+- ![image](https://user-images.githubusercontent.com/48789893/113118769-bcefcf00-924a-11eb-82ca-9286a2786586.png)
+#### 네번째 페이지
+- ![image](https://user-images.githubusercontent.com/48789893/113118820-caa55480-924a-11eb-9827-d745d795fc98.png)
